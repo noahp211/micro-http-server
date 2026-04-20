@@ -1,8 +1,6 @@
 # Micro HTTP/1.1 Server
 
-This project is a basic HTTP/1.1 server built from scratch using Python and sockets.
-
-It accepts TCP connections, parses HTTP requests manually, and serves files from a local folder.
+This project is a basic HTTP/1.1 server built from scratch using Python and sockets
 
 Features
 - Uses Python socket
